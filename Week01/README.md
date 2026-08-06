@@ -25,7 +25,7 @@ Date: August 7, 2026
 * VS Code
 * VirtualBox
 * Ubuntu ISO
-* Windows ISO
+* Windows 11 ISO
 
 ---
 
