@@ -1,48 +1,56 @@
-# Hi there, I'm Krystal Margareth 👋
+# BSIT – System Administration and Maintenance Portfolio
 
-### 🚀 About Me
-I am a fourth-year **Bachelor of Science in Information Technology (BSIT)** student passionate about bridging the gap between technical backend systems and engaging visual experiences. I love combining creativity with technology, spanning across user interfaces, data-driven insights, and mobile application development.
-
----
-
-### 🎯 Career Goals
-* **UI/UX Designer:** Crafting intuitive, user-centered digital experiences and interfaces.
-* **Data Analyst:** Transforming raw data into actionable insights and visual reports.
-* **Mobile Developer:** Building cross-platform, responsive applications.
-* **Graphic Design & Video Editing:** Producing creative visual assets, branding materials, and dynamic video content.
+> A collection of weekly laboratory activities, documentation, and practical projects completed for **ITEP 414 – System Administration and Maintenance**.
 
 ---
 
-### 🛠️ Current Skills
-* **Creative & Design:** Graphic Design, Video Editing
-* **Mobile Development:** Flutter (Cross-platform app development)
-* **Core IT & Systems:** Version Control (Git/GitHub), System Administration basics
+## 👤 Student Information
+
+* **Name:** Krystal Margareth B. Villanueva
+* **Course:** Bachelor of Science in Information Technology (BSIT)
+* **Section:** 4A - WAMD
+* **Academic Year:** 2026
 
 ---
 
-### 📚 Technologies I Want to Learn
-* **UI/UX:** Figma, Adobe XD, Advanced Prototyping
-* **Data Analysis:** Python (Pandas, NumPy), SQL, Tableau, Power BI
-* **Mobile/Web:** Advanced Flutter State Management, React, Node.js
-* **Cloud & AI:** Advanced AWS Services, Machine Learning Pipelines
+## 📌 Course Description
+
+This portfolio serves as a comprehensive record of system administration workflows, server deployment, network configuration, virtualization practices, and maintenance tasks performed throughout the semester.
 
 ---
 
-### 🏆 Certifications
-* AWS Cloud Practitioner Essentials
-* Fundamentals of Machine Learning and Artificial Intelligence
-* AWS Cloud Quest: Cloud Practitioner
-* AWS Cloud Quest: Generative AI Practitioner
-* Python Essentials 1
+## 📂 Repository Structure
+
+| Week | Topic / Activity Title | Status |
+| :--- | :--- | :---: |
+| **[Week 01](./Week01/)** | Building My Professional Environment | Completed |
+| **Week 02** | *System Administration Fundamentals* | Pending |
+| **Week 03** | *Laboratory Activity* | Pending |
+| **Week 04** | *Laboratory Activity* | Pending |
+| **Week 05** | *Laboratory Activity* | Pending |
+| **Week 06** | *Laboratory Activity* | Pending |
+| **Week 07** | *Laboratory Activity* | Pending |
+| **Week 08** | *Midterm Laboratory / Assessment* | Pending |
+| **Week 09** | *Laboratory Activity* | Pending |
+| **Week 10** | *Laboratory Activity* | Pending |
+| **Week 11** | *Laboratory Activity* | Pending |
+| **Week 12** | *Laboratory Activity* | Pending |
+| **Week 13** | *Laboratory Activity* | Pending |
+| **Week 14** | *Laboratory Activity* | Pending |
+| **Week 15** | *Final Capstone / Portfolio Review* | Pending |
 
 ---
 
-### 💻 Academic Projects
-* **E-Commerce Web Application:** A full-stack web-based online shopping and product management system.
-* **E-Commerce Mobile Application:** A cross-platform mobile app designed for seamless product browsing and mobile transactions.
+## 🛠️ Key Tools & Technologies
+
+* **Version Control:** Git, GitHub, GitHub Desktop
+* **Virtualization:** Oracle VM VirtualBox
+* **Operating Systems:** Ubuntu Desktop/Server, Windows 11 Enterprise
+* **Development Environment:** Visual Studio Code
 
 ---
 
-### 📬 Contact Information
-* **GitHub:** [github.com/ryscake](https://github.com/ryscake)
-* **LinkedIn:** [linkedin.com/in/villanueva-krystal-margareth-b-34174a426](https://www.linkedin.com/in/villanueva-krystal-margareth-b-34174a426)
+## 🌐 Professional Links
+
+* **GitHub Profile:** https://github.com/ryscake
+* **LinkedIn Profile:** https://www.linkedin.com/in/villanueva-krystal-margareth-b-34174a426
