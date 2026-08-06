@@ -1,7 +1,7 @@
 # Hi there, I'm Krystal Margareth 👋
 
 ### 🚀 About Me
-I am a third-year **Bachelor of Science in Information Technology (BSIT)** student passionate about bridging the gap between technical backend systems and engaging visual experiences. I love combining creativity with technology, spanning across user interfaces, data-driven insights, and mobile application development.
+I am a fourth-year **Bachelor of Science in Information Technology (BSIT)** student passionate about bridging the gap between technical backend systems and engaging visual experiences. I love combining creativity with technology, spanning across user interfaces, data-driven insights, and mobile application development.
 
 ---
 
