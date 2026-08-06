@@ -37,7 +37,7 @@ This portfolio serves as a comprehensive record of system administration workflo
 | **Week 12** | *Laboratory Activity* | Pending |
 | **Week 13** | *Laboratory Activity* | Pending |
 | **Week 14** | *Laboratory Activity* | Pending |
-| **Week 15** | *Final Capstone / Portfolio Review* | Pending |
+| **Week 15** | *Final Portfolio Review* | Pending |
 
 ---
 
